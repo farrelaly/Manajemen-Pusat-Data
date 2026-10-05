@@ -40,4 +40,3 @@ Mengaktifkan dan mengamankan layanan `sshd` di AlmaLinux untuk memungkinkan admi
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/787a9cc5-01fe-4608-9866-c957ae9000fd" />
 
 ---
-*Dokumentasi ini dibuat untuk memenuhi tugas mata kuliah Manajemen Pusat Data, Universitas Sriwijaya.*
