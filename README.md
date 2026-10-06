@@ -26,6 +26,9 @@ Proyek ini merupakan persiapan infrastruktur *Enterprise Data Center* berbasis v
 Instalasi web server menggunakan **Nginx** dipadukan dengan **MariaDB** untuk persiapan *database*. Mensimulasikan akses nama domain layaknya *Data Center* komersial dengan melakukan pemetaan DNS lokal (*Local Host Mapping*) pada mesin klien (*Windows*) agar IP server merespons domain khusus: `farrel-datacenter.com`.
 
 <img width="942" height="434" alt="image" src="https://github.com/user-attachments/assets/10923aa7-a423-452d-a450-8b4c64dac550" />
+<br><br><br><br>
+<img width="926" height="519" alt="image" src="https://github.com/user-attachments/assets/03969156-1c9b-41b6-a868-d3a06403060e" />
+
 
 
 ### 2. NOC Monitoring & Observability
